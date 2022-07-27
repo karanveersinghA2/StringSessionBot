@@ -26,7 +26,7 @@ Hey {}
 
 Welcome to {}
 
-If you don't trust this bot, 
+my name is Karan singh 
 1) stop reading this message
 2) delete this chat
 
